@@ -2,9 +2,7 @@
 The command line typically presents you with a ""prompt"". As you type, it will be displayed after the prompt.
 
 **For example:**
-- user@bash: ls -l/home/ryan is presented after we entered a command (ls).
+- user@bash:ls -l/home/ryan is presented after we entered a command (ls).
 
 - Another command is ""pwd"" which stands for Print Working Directory, this command shows you what your
   current working diectory is.
-
-theme: jekyll-theme-leap-day
